@@ -26,7 +26,7 @@
      
         </tr>
         <tr>
-            <td width="100%" align="center"><img src="./ГАЗРЫН ТӨЛӨВ БАЙДАЛ, ЧАНАРЫН УЛСЫН ХЯНАН БАТАЛГААНЫ ДҮГНЭЛТ_files/logo.png" width="80px"></td>
+            <td width="100%" align="center"><img src="logo.png" width="80px"></td>
         </tr>
         <tr>
             <td align="center"><img src="./ГАЗРЫН ТӨЛӨВ БАЙДАЛ, ЧАНАРЫН УЛСЫН ХЯНАН БАТАЛГААНЫ ДҮГНЭЛТ_files/logo_txt.png" width="180px"></td>
